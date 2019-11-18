@@ -18,7 +18,7 @@
           Welcome to Unguided PAW
         </h1>
         <p class="subheading font-weight-regular">
-          <v-btn text router to="/components/dashboardLayout.vue">DASHBOARD</v-btn>
+          <v-btn text router to="/login">LOGIN</v-btn>
         </p>
       </v-flex>
 

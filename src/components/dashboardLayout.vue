@@ -42,8 +42,8 @@ export default {
         return { 
             drawer: null, 
             items: [ 
-                { title: 'User Controller', icon: 'mdi-human-male', link: '/' }, 
-                { title: 'Sparepart Controller', icon: 'mdi-duck', link: '/dashboardContents/sparepartController'},
+                { title: 'User Controller', icon: 'mdi-human-male', link: '/user' }, 
+                { title: 'Sparepart Controller', icon: 'mdi-duck', link: '/sparepart'},
             ], 
         } 
     }, 
